@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrashApp3</string>
+    <string name="ciclo1">Ciclo1</string>
+    <string name="ciclo2">Ciclo2</string>
+    <string name="ciclo3">Ciclo3</string>
+    <string name="ciclo4">Ciclo4</string>
+    <string name="newView1">Ventana1</string>
+    <string name="newView2">Ventana2</string>
+    <string name="newView3">Ventana3</string>
+    <string name="crash">Crash</string>
+</resources>
